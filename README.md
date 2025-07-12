@@ -6,7 +6,7 @@ ultralytics, opencv-python, torch, torchvision, numpy, deep_sort_realtime
 3. Make sure the files best.pt and 15sec_input_720p.mp4 are in the same folder as the notebook.
 4. After running, the tracked output video will be saved as output.avi.
    
-Dependencies and Requirements
+Dependencies and Requirements:
 Jupyter Notebook – to open and run the .ipynb file
 
 Required Python packages:
